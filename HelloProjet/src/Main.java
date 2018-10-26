@@ -4,6 +4,10 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
+
         System.out.println("HelloWorld张三!");
+
+        System.out.println("HelloWorld李四!");
+
     }
 }
